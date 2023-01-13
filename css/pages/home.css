@@ -89,3 +89,10 @@ footer > .row {
     top: -1.1em;
     right: -0.6em;
 }
+.logo-white {
+    margin-top: 40px;
+    width: 100%;
+    height: 50px;
+    object-fit: contain;
+    object-position: center
+}
